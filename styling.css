@@ -1,0 +1,35 @@
+#canvas{
+background:yellow;
+margin: 0;
+    padding: 0;}
+
+#restart{position:center;
+    width:100px;
+    background-color: #eee;
+    border-style: solid;
+    border-width: 20px
+    border-color: yellow;
+    color: red;
+    border-radius: 50%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    margin-left:10px;
+    cursor: pointer;
+}
+.controls{
+background-color:black;
+height:180px;
+color:white;
+font-weight:bold;
+
+}
+
+.point1{
+background-color:yellow;
+color:red;
+font-weight: bold;
+height:50px;
+width:50px;
+
+}
